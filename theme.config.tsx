@@ -2,17 +2,19 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>DailyInsightAI</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/nmo-genio/dailyinsightai',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/nmo-genio/dailyinsightai-docs',
   footer: {
     text: 'Nextra Docs Template',
   },
 }
 
 export default config
+
+
+// chat: {
+//   link: 'https://discord.com',
+// },
