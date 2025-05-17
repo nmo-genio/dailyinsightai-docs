@@ -67,6 +67,7 @@ const config: DocsThemeConfig = {
    * @property {boolean} toc.backToTop - Indicates whether a "back to top" link is provided in the table of contents.
    */
   toc: {
+    float: true,
     backToTop: true
   },
   /**
