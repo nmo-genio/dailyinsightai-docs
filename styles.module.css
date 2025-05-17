@@ -1,0 +1,8 @@
+/* 
+ * The `.headingParagraph` class applies a margin to the top of the element.
+ * 
+ * @property {string} margin-top - Sets the top margin to 0.5rem with high importance.
+ */
+.headingParagraph {
+  margin-top: 0.5rem !important;
+}

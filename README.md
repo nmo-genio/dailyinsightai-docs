@@ -22,4 +22,4 @@ Then, run `pnpm dev` to start the development server and visit localhost:3000.
 
 This project is licensed under the MIT License. -->
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is the documentation repo of [DailyInsightAI](https://github.com/nmo-genio/dailyinsightai).

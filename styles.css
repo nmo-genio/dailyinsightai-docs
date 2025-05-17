@@ -1,0 +1,9 @@
+/**
+ * Adjusts the top margin of the first paragraph after an h1 element to 0.5rem.
+ *
+ * This is necessary because the default margin-top of 2rem is too large for the first
+ * paragraph after an h1 element in the title section of a page.
+ */
+h1 + p {
+  margin-top: 0.5rem !important;
+}
