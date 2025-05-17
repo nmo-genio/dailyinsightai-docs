@@ -37,4 +37,10 @@ const withNextra = require('nextra')({
   }
 })
 
+/**
+ * Exports the Nextra configuration for Next.js.
+ *
+ * This uses the 'withNextra' function to configure Next.js with the specified
+ * Nextra options, including theme, theme configuration, and markdown settings.
+ */
 module.exports = withNextra()
