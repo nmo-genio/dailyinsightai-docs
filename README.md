@@ -1,28 +1,4 @@
-<!-- # Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
-
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License. -->
-
-This is the documentation repo of [DailyInsightAI](https://github.com/nmo-genio/dailyinsightai).
 # 📘 DailyInsightAI Docs — Attempt 1,2,3...... nope
 
 This is my x attempt at creating a documentation site for the DailyInsightAI project using Nextra templates.
@@ -72,4 +48,4 @@ src/
 ```
 
 ## Disclaimer
-With latest nextra version I could not build successfully. You can give a try using what I worked on.
+With latest nextra version I could not build successfully this project. You can give it a try making use what I worked on.
