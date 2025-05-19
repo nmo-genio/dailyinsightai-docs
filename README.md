@@ -5,8 +5,6 @@ This is my x attempt at creating a documentation site for the DailyInsightAI pro
 
 The goal: build a **clean, crisp-looking** documentation experience using modern tools.
 
-🌐 **Live vercel working version**: [https://dailyinsightai-docs-o4gnfys4b-nmo-genios-projects.vercel.app/](https://dailyinsightai-docs-o4gnfys4b-nmo-genios-projects.vercel.app/)
-
 ## 🚀 Project Description
 
 This repo contains the structure and content for a documentation site built with **Nextra**, a Next.js-based static site generator.
